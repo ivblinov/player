@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Player</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="return_sing">return sing</string>
+    <string name="turn_on">turn_on</string>
+    <string name="turn_on_next">turn_on_next</string>
+</resources>
